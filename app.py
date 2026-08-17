@@ -20,9 +20,10 @@ if prompt:= st.chat_input("Digite sua mensagem"):
    with st.chat_message("user"):
       st.markdown(prompt)
 
-resposta = responder(prompt, thread_id="thread_id")
-st.spinner('Consultando os documentos...')
-st.session_state.messages.append({"role":"assitant", "content": resposta})
-st.spinner('Consultando os documentos...')
-with st.chat_message("assitant"):
-      st.markdown(resposta)
+   st.spinner('Consultando os documentos...')
+   resposta = responder(prompt, thread_id=st.session_state.thread_id)
+
+   st.session_state.messages.append({"role":"assistant", "content": resposta})
+
+   with st.chat_message("assistant"):
+         st.markdown(resposta)
