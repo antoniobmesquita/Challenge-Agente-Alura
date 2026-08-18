@@ -96,7 +96,7 @@ O projeto foi feito usando os documentos disponibilizados no challenge.
 
 1. **Clonar o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/antoniobmesquita/Challenge-Agente-Alura
    cd seu-repositorio
    ```
 
