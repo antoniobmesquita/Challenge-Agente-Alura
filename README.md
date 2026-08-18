@@ -15,6 +15,8 @@ Este projeto foi desenvolvido como parte do **Challenge Alura Agentes**. O objet
 O sistema permite que qualquer colaborador da empresa realize perguntas em linguagem natural e receba respostas contextualizadas, baseadas diretamente em documentos internos da organização (políticas de RH, diretrizes financeiras, processos operacionais, manuais técnicos, contratos, etc.), eliminando alucinações e citando as fontes de informação.
 
 O projeto foi feito usando os documentos disponibilizados no challenge.
+
+
 ---
 
 ## 🎯 Principais Funcionalidades
