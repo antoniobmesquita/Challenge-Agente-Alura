@@ -61,9 +61,9 @@ O projeto foi feito usando os documentos disponibilizados no challenge.
 
 ## 🌐 Demonstração & Deploy
 
-![Demonstração do Agente](main/sreenshots/print-agente.png)
+![Demonstração do Agente](sreenshots/print-agente.png)
 
-![Demonstração do Agente](main/sreenshots/print-agente-2.png)
+![Demonstração do Agente](sreenshots/print-agente-2.png)
 
 > **Link do Projeto Hospedado**: https://agente-mercado-central.streamlit.app/
 
