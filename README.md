@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/RAG-LangChain%20%2F%20LlamaIndex-green.svg)](#)
-[![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green.svg)](#)
+[![Status](https://img.shields.io/badge/Status-Concluído-green.svg)](#)
 
 > **Challenge Alura + Oracle Next Education**: Um agente de Inteligência Artificial centralizado, seguro e acessível a todos os colaboradores para consultas rápidas e precisas em bases de conhecimento internas.
 
